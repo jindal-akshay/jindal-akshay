@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I am **Akshay Jindal** interested in becoming a **Quantatative Analyst**. I identify and solve financial problems through big-data, machine learning, and automiation.
+I am **Akshay Jindal** interested in becoming a **Quantatative Analyst**. I *identify* and *solve* financial problems through big-data, machine learning, and automiation.
 
 Nittany Lion :lion: now continuing my education at Columbia University.
 
