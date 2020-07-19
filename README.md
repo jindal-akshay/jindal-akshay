@@ -17,4 +17,4 @@ Nittany Lion grad, now continuing my education at Columbia University.
 - 📫 How to reach me:
   **[LinkedIn](https://www.linkedin.com/in/akshay-jindal-3602/)**
 
-![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=AkshayJ-Fintech&show_icons=true&hide_border=true)
+![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=jindal-akshay&show_icons=true&hide_border=true)
