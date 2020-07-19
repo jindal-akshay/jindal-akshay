@@ -12,7 +12,7 @@ Nittany Lion, now continuing my education at Columbia University.
 - 🔭 I’m currently working as **Technical Account Manager**
 - 🌱 I’m currently learning **Python at [Columbia Fintech Bootcamp](https://bootcamp.cvn.columbia.edu/fintech/).**
 - 👯 I’m looking to collaborate on machine learning **sklearn** case studies
-- 🤔 I’m looking to dedicate my time towards growing businesses. 
+- 🤔 I'm looking to apply my finance background in a quantiative/techincal  role with an innovative and growing business. 
 - 💬 Ask me about **Quantitative Finance**
 - 📫 How to reach me:
   **[LinkedIn](https://www.linkedin.com/in/akshay-jindal-3602/)**
