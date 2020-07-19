@@ -4,7 +4,7 @@
 
 I am **Akshay Jindal** interested in becoming a **Quantatative Analyst**. I identify and solve financial problems through big-data, machine learning, and automiation.
 
-Nittany Lion grad, now continuing my education at Columbia University. 
+Nittany Lion, now continuing my education at Columbia University.
 
 
 ---
