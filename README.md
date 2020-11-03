@@ -15,5 +15,6 @@ Nittany Lion :lion: now continuing my education at Columbia University.
 - 💬 Ask me about **Quantitative Finance**
 - 📫 How to reach me:
   **[LinkedIn](https://www.linkedin.com/in/akshay-jindal-3602/)**
+  **[Gmail](ajindal.k@gmail.com)**
 
 ![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=jindal-akshay&show_icons=true&hide_border=true)
