@@ -10,7 +10,7 @@ Nittany Lion :lion: now continuing my education at Columbia University.
 ---
 
 - 🔭 Working as **Technical Account Manager**
-- 🌱 Learning **Python** at [Columbia Fintech Bootcamp](https://bootcamp.cvn.columbia.edu/fintech/).
+- 🌱 Studied **Python** at [Columbia Fintech Bootcamp](https://bootcamp.cvn.columbia.edu/fintech/).
 - 🤔 Looking to apply my finance background in a quantiative/techincal  role with an innovative and growing group. 
 - 💬 Ask me about **Quantitative Finance**
 - 📫 How to reach me:
